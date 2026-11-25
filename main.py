@@ -12,8 +12,8 @@ LINE1 = (
 )
 LINE2 = (
     "It maps the linked line, the slow shuffle and the waiting, but "
-    "leaves out that trains have a driver, a timetable and an engine "
-    "doing the pulling."
+    "leaves out that real trains have a driver, a timetable and one "
+    "engine doing all the pulling."
 )
 LINE = LINE1 + chr(10) + LINE2
 MAX_CHARS = 400
